@@ -1,4 +1,4 @@
-package postgreSQL
+package mongoDBV2
 
 import "github.com/caarlos0/env/v11"
 

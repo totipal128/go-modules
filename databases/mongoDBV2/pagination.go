@@ -1,4 +1,4 @@
-package postgreSQL
+package mongoDBV2
 
 type Pagination struct {
 	//Search
