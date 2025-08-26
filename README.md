@@ -34,7 +34,7 @@ several database connections including:
 
 | ENV               | Type      | Default                    | Description       |
 | :--------         | :-------  | :------------------------- | :------           |
-| `DB_NAME`         | `string`  | admin                      |                |
+| `DB_NAME`         | `string`  | admin                      |                   |
 | `CLUSTER_URL`     | `string`  | cluster0.admin.mongodb.net |                   |
 | `USER`            | `string`  |                            |                   |
 | `PASS`            | `string`  |                            |                   |
